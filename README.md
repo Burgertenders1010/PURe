@@ -1,4 +1,4 @@
-# Piped Roads (PURepipeconnectorsys)
+# Pipes under Roads (PURepipeconnectorsys)
 
 Cities: Skylines (1) mod — automatically places underground water pipes under
 roads as they're built, matching road curvature, connecting at intersections,
